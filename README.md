@@ -1,3 +1,5 @@
+_Please note that Veins LTE is not actively developed right now - for up-to-date versions of the uses software, please refer to [SimuLTE](https://simulte.com/) and [Veins](http://veins.car2x.org/)_.
+
 ## Veins LTE
 
 Veins LTE adds LTE support to the vehicular network simulation framework [Veins](http://veins.car2x.org/).
